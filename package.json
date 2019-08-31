@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/travispomeroy/my-react-ts-app-manual#readme",
   "devDependencies": {
+    "tslint": "^5.19.0",
     "typescript": "^3.6.2"
   }
 }
