@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/travispomeroy/my-react-ts-app-manual/issues"
   },
-  "homepage": "https://github.com/travispomeroy/my-react-ts-app-manual#readme"
+  "homepage": "https://github.com/travispomeroy/my-react-ts-app-manual#readme",
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  }
 }
